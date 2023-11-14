@@ -3,9 +3,9 @@
 return [
     'driver' => 'mysql',
     'host' => 'localhost',
-    'database' => 'slim',
+    'database' => 'aaw_lectia4',
     'username' => 'root',
-    'password' => 'developer',
+    'password' => '',
     'charset'   => 'utf8',
     'collation' => 'utf8_unicode_ci',
     'prefix'    => '',
