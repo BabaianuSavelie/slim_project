@@ -1,0 +1,15 @@
+{
+    "name": "sava/lectie_conducere",
+    "authors": [
+        {
+            "name": "BabaianuSavelie",
+            "email": "babaianu.savelie1@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.12",
+        "illuminate/database": "^10.31",
+        "slim/psr7": "^1.6",
+        "illuminate/view": "^10.31"
+    }
+}
